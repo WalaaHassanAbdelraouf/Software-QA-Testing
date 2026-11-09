@@ -34,6 +34,8 @@ My responsibilities and activities included:
 - Functional, Regression, & Sanity Testing
 - SDLC & STLC
 - Agile Methodology
+- Automation Testing
+- Performance Testing
 - Communication and Collaboration
 
 ## Disclaimer
