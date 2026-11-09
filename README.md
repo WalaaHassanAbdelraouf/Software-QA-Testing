@@ -2,7 +2,7 @@
 
 ## About This Repository
 
-Welcome to my Software Quality Assurance Testing Portfolio
+Welcome to my Software Quality Assurance Testing Repo!
 
 This repository contains practical QA documentation, testing examples, bug reports, test cases, testing reports, and learning notes based on my experience as a Software QA Engineer and my continuous learning in software testing.
 
