@@ -10,8 +10,8 @@ The main purpose of this repository is to document my practical knowledge, demon
 
 ## Professional Experience
 
-I previously worked as a Software QA Engineer, where I gained practical experience in software testing and quality assurance activities.
-During this experience, I worked on different software projects and collaborated with Business Analysts, Project Managers, and development teams.
+I worked as a Software QA Engineer, where I gained practical experience in software testing and quality assurance activities.
+During this experience, I worked on software projects and collaborated with Business Analysts, Project Managers, and development teams.
 
 My responsibilities and activities included:
 
@@ -38,8 +38,6 @@ My responsibilities and activities included:
 
 ## Disclaimer
 
-All materials in this repository are created for educational and portfolio purposes.
+All the materials in this repository are created for educational and portfolio purposes.
 No confidential company information, client data, proprietary documents, or sensitive project details are included here.
 
-
-**Field:** Software Quality Assurance | Manual Testing
