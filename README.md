@@ -27,13 +27,14 @@ My responsibilities and activities included:
 ## Skills & Knowledge
 
 - Manual Software Testing
+- Testing Types and Phases
 - Test Case Design and Documentation
 - Bug Reporting and Tracking
 - Requirements Analysis
 - User Acceptance Testing (UAT)
 - Functional, Regression, & Sanity Testing
 - SDLC & STLC
-- Agile Methodology
+- Agile Methodology & Jira
 - Automation Testing
 - Performance Testing
 - Communication and Collaboration
